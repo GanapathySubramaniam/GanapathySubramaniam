@@ -61,9 +61,11 @@ I'm a passionate AI visionary based in Toronto, dedicated to building transforma
 
 
 <!-- Contribution Snake Animation -->
-<p align="center">
-  <img src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake-dark.svg"[2][5]>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GanapathySubramaniam/GanapathySubramaniam/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GanapathySubramaniam/GanapathySubramaniam/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/GanapathySubramaniam/GanapathySubramaniam/output/github-snake.svg" />
+</picture>
 
 ## 📫 Connect With Me
 
