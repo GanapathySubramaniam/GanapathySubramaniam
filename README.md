@@ -70,7 +70,7 @@ I'm a passionate AI visionary based in Toronto, dedicated to building transforma
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/ganapathy-subramaniam-sundar-b08aa222b">
+  <a href="https://www.linkedin.com/in/ganapathy-subramaniam-sundar-b08aa222b">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://gsundar.vercel.app/">
