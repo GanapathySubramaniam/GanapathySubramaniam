@@ -59,14 +59,13 @@ I'm a passionate AI visionary based in Toronto, dedicated to building transforma
 - Contributing to impactful solutions within Agile development teams
 
 
-
 <!-- Contribution Snake Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GanapathySubramaniam/GanapathySubramaniam/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GanapathySubramaniam/GanapathySubramaniam/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/GanapathySubramaniam/GanapathySubramaniam/output/github-snake.svg" />
 </picture>
-![](https://github-readme-streak-stats.herokuapp.com/?user=GanapathySubramaniam&theme=dark&hide_border=true)<br/>
+
 ## 📫 Connect With Me
 
 <p align="center">
