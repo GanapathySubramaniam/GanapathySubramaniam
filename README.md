@@ -66,6 +66,8 @@ I'm a passionate AI visionary based in Toronto, dedicated to building transforma
   <img alt="github-snake" src="https://raw.githubusercontent.com/GanapathySubramaniam/GanapathySubramaniam/output/github-snake.svg" />
 </picture>
 
+
+
 ## 📫 Connect With Me
 
 <p align="center">
