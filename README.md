@@ -1,8 +1,18 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Ganapathy+Subramaniam+Sundar">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&weight=200&size=28&pause=2000&color=07F74C&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Ganapathy+Subramaniam+Sundar" alt="Typing SVG" />
 
 </p>
+
+
+<p align="center">
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWgycG9ldGs5cmJmZHB0Y2czdXdtcGtrMnQweGswbDhoczVzb3hzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lny6Rw04nsOOc/giphy.gif" 
+         style="width: 69%; max-width: 500px;"
+         alt="Centered GIF">
+</p>
+
+
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue"[2]>
@@ -79,6 +89,11 @@ I'm a passionate AI visionary based in Toronto, dedicated to building transforma
   </a>
 </p>
 
+<p align="center">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3J2eWd4dDFndWlmemcyOWk1MjVlMTAxd2ZxYnNsdnU2bzRiMDFxMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3orif0JgDHfdCEmDra/giphy.gif" 
+         style="width: 69%; max-width: 500px;"
+         alt="Centered GIF">
+</p>
 
 
 ✨ **Fun Fact**: I love exploring the intersections of philosophy, psychology, and technology, believing that a deeper understanding of life and reality helps create more thoughtful AI solutions.
